@@ -6,6 +6,7 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "@wppconnect-team/wppconnect": "^1.37.5",
     "elysia": "latest"
   },
   "devDependencies": {
